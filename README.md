@@ -7,8 +7,9 @@ Index page
 
 
 Cafe adding page
-![image](https://user-images.githubusercontent.com/109307635/197356957-c444663a-9b40-4b4d-9aaf-0fba46164364.png)
+![image](https://user-images.githubusercontent.com/109307635/197357020-66adad6e-92eb-45e4-b76e-376ca7a60f84.png)
 
 
 Cafe restaurants page
-![image](https://user-images.githubusercontent.com/109307635/197356967-40a93307-2402-4bcb-8b12-080c688cca9c.png)
+![image](https://user-images.githubusercontent.com/109307635/197357039-f8e79c46-3fca-4b0e-8e22-18d034db5ddc.png)
+
